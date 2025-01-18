@@ -1,6 +1,6 @@
 # Lightweight Vision Library for Object_Detection Segmentation
 
-Lightweight_Vision_Library_for_Object_Detection_&amp;_Segmentation
+Lightweight Vision Library for Object Detectiona Segmentation
 
 
 
